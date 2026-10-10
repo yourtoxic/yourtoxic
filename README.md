@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```
 ~$ cd /
 ~$ ls
-toxic projects passion education hobby 
+toxic projects passions education hobby 
 ```
 
 ```
@@ -42,10 +42,10 @@ Butu
 ```
 
 ```
-~$ cd passion
+~$ cd passions
 ~$ ls 
-passion.txt
-~$ cat passion.txt
+passions.txt
+~$ cat passions.txt
 I don't have a strong passion for anything, but I enjoy coding, Linux, embedded systems, IoT, and building hardware projects.
 ```
 
